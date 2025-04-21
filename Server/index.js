@@ -3,5 +3,5 @@ import { connection } from "./configs/DB/SQLConnection.js";
 import { cloudinaryConnection } from "./src/Middleware/CloudinaryConnection.js";
 
 initServer()
-connection()
+//connection()
 cloudinaryConnection()
